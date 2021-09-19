@@ -1,0 +1,25 @@
+.dialogs{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+.dialog img {
+    vertical-align: middle ;
+    height: 40px;
+    width: 40px;
+    padding: 5px;
+}
+.dialogsItems{
+    padding: 10px 20px;
+}
+.dialogsItems a{
+    color: white;
+    text-decoration: none;
+}
+.dialogsItems .active{
+    color: white;
+}
+.messages{
+    padding: 10px 20px;
+    color: white;
+}
+

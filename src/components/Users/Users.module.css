@@ -1,0 +1,10 @@
+.usersPhoto{
+    width: 100px;
+    height: 100px;
+}
+.salectedPage{
+    font-weight: bold;
+}
+.nummeredPages{
+    cursor: pointer;
+}

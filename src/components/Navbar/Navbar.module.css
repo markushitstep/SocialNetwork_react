@@ -1,0 +1,15 @@
+.nav{
+    grid-area: n;
+    background-color:  #00b359;
+    padding: 10px 15px;
+}
+.item .friendsTittle{
+    font-size: 40px;
+}
+.item a{
+    color: white;
+    text-decoration: none;
+}
+.item a.activeLink{
+    color: gold;
+}
